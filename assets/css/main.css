@@ -505,7 +505,7 @@ body {
 }
 
 .toggle-btn::before {
-    content: 'AGENCIA CREATIVA DIGITAL';
+    content: 'AGENCIA CREATIVA ONLINE';
     position: absolute;
     width: 180px;
     font-size: 14px;
