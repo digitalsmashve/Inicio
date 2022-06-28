@@ -44,7 +44,7 @@
 }
 
 /* // Extra small devices (portrait phones, less than 576px) */
-@media (min-width: 575.98px) and (max-width: 767.98) {
+@media (min-width: 575.98px) and (max-width: 767.98px) {
     .address-menu {
         display: none;
     }
@@ -83,7 +83,7 @@
 }
 
 /* // Medium devices (tablets, less than 992px) */
-@media (min-width: 991.98px) and (max-width: 1199.98px) {
+@media (min-width: 992px) and (max-width: 1199.98px) {
 
     .left-bg {
         display: none
@@ -96,7 +96,7 @@
 }
 
 /* // Large devices (desktops, less than 1200px) RETINA */
-@media (min-width: 1200px) and (max-width: 7680px) {
+@media (min-width: 1200px) and (max-width: 4000px) {
     .work-item {
         height: 350px;
     }
