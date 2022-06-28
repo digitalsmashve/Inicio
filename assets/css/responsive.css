@@ -96,7 +96,7 @@
 }
 
 /* // Large devices (desktops, less than 1200px) RETINA */
-@media (min-width: 1200px) and (max-width: 4000px) {
+@media (min-width: 1200px) and (max-width: 7680px) {
     .work-item {
         height: 350px;
     }
